@@ -1,0 +1,15 @@
+/* Custom animation for fadeInUp */
+.animate-fadeInUp {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+.animate-fadeInUp.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Hide response message by default */
+#formResponse.hidden {
+  display: none;
+}
