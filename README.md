@@ -38,7 +38,3 @@ This project is open source and available under the MIT License.
 ## Contact
 
 For any questions or feedback, please use the contact form on the website or reach out via GitHub.
-
----
-
-This README provides a comprehensive introduction and guide to your digital portfolio project. Adjust URLs and personal details as needed.
